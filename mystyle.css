@@ -23,3 +23,16 @@ h1 {
     padding: 20px;
     padding-top: 30px;
 }
+.button {
+    background-color: aqua;
+    border: none;
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .button:hover {
+    background-color: green;
+  }
